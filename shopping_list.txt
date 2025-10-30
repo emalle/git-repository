@@ -1,4 +1,4 @@
-milk
+french fries
 bread
 apples
 bananas
@@ -9,4 +9,8 @@ cheese
 onions
 garlic
 shampoo
+<<<<<<< HEAD
 soap
+=======
+tootbrush
+>>>>>>> 7f53ea29c3291c13f9a8d16f25a36d5146d1c4c9
