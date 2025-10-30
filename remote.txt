@@ -1,0 +1,3 @@
+git remote -v
+origin  https://github.com/emalle/git-repository.git (fetch)
+origin  https://github.com/emalle/git-repository.git (push)
