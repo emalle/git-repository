@@ -1,0 +1,10 @@
+milk
+bread
+apples
+bananas
+carrots
+potatoes
+tomatoes
+cheese
+onions
+garlic
