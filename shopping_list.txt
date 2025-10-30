@@ -8,3 +8,5 @@ tomatoes
 cheese
 onions
 garlic
+shampoo
+toothpaste
