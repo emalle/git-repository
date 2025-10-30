@@ -11,4 +11,4 @@ one, where you add the story, a second on where you add the shopping list,
 Using the command git log, check that you have properly created three commits. 
 You can press q to exit the log.
 Add something new to the shopping list, and create another commit. Use the command git add -p.
-Make sure you can see all the commits in the output of git log.
+Make sure you can see all the commits in the output of git log. Thank you.
