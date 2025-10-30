@@ -1,4 +1,4 @@
-Open the git-practice folder we turned it into a Git project earlier both in an editor 
+Open the git-practice folder we turned it into a Git project earlier both in an editor bla bla
 (for example Visual Studio Code) and in Git Bash.
 Create a file called story.txt in your project. Add a lot of text inside.
 Add another file called shopping_list.txt to the project, and write down 
